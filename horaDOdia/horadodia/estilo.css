@@ -1,33 +1,33 @@
 body {
-    background: #4ea5f1;
-    font: normal 15pt Arial;
+  background: #4ea5f1;
+  font: normal 15pt Arial;
 }
 
 header {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 section {
-    background: white;
-    border-radius: 10px;
-    padding: 15px;
-    width: 500px;
-    margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.362);
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.362);
 }
 
 footer {
-    color: white;
-    text-align: center;
-    font: italic;
+  color: white;
+  text-align: center;
+  font: italic;
 }
 img {
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-  }
-  div {
-    text-align: center;
-    padding: 8px;
-  }
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+div {
+  text-align: center;
+  padding: 8px;
+}
