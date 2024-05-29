@@ -23,6 +23,7 @@ footer {
   font: italic;
 }
 img {
+  object-fit: cover;
   border-radius: 50%;
   width: 300px;
   height: 300px;
